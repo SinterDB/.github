@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sinterdb.svg" alt="SinterDB" width="420" />
+  <img src="./assets/sinterdb-wordmark.png" alt="SinterDB" width="420" />
 </p>
 
 <p align="center">
